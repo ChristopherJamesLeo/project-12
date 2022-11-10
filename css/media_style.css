@@ -1,0 +1,8 @@
+@media(max-width: 1000px){
+    .nav-slide-btn-div {
+        display: block;
+    }
+    .navBar nav .nav-right-menu {
+        display: none;
+    }
+}
